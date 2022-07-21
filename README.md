@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wissam Kherfi</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wissamdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="wissamdeveloper" /> </p>
-
 - 🌱 I’m currently learning **NodeJs and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wissamdeveloper](https://github.com/wissamdeveloper)
