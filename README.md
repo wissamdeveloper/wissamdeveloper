@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DEVOPS & SYSTEM DESIGN**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/wissamdeveloper](https://github.com/wissamdeveloper)
+<!--- 👨‍💻 Some of my projects are available at [https://github.com/wissamdeveloper](https://github.com/wissamdeveloper)-->
 
 - 📫 How to reach me **kherfiwissam1@gmail.com**
 
