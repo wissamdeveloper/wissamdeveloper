@@ -12,7 +12,7 @@
 <h1 align="center">Hi I am Wissam 👋</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **DEVOPS & SYSTEM DESIGN**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/wissamdeveloper](https://github.com/wissamdeveloper)
 
